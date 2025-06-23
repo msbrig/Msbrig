@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .i am still alive
 -->
 
+msbrig/Msbrig is licensed under the
+Apache License 2.0 for current project
